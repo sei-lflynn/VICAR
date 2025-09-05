@@ -115,6 +115,8 @@ Other less commonly referenced documents:
 * [Building and Delivering VICAR Applications](https://www-mipl.jpl.nasa.gov/buildapps/)
 * [VRDI User's Reference Guide (mostly obsolete)](https://www-mipl.jpl.nasa.gov/vrdi/vrdi.html)
 
+word
+
 # VICAR Discussion Forums
 
 We've set up online groups to help users collaborate and interact on VICAR-related subjects, where you can find notifications of new releases, view bug reports and participate in general discussions:
